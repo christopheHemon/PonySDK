@@ -8,3 +8,7 @@ Spring integration
 Hibernate integration
 Pony based front-end
 Generator tools
+
+```java
+// comment
+```
